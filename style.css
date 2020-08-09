@@ -1,3 +1,14 @@
 .under-title {
-  font-size: 5px;
+  font-size: 20px;
+  padding-left: 35%;
+}
+.title {
+  padding-top: 20px;
+}
+.box {
+  max-width: 30%;
+  margin-left: 35%;
+}
+.container {
+  width: 1%;
 }
